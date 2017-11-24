@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 22 15:41:12 CST 2017
+commons-logging-1.1.1.jar>central=
+commons-logging-1.1.1.pom>central=
+commons-logging-1.1.1.pom>iflytek-nexus=
+commons-logging-1.1.1.jar>iflytek-nexus=

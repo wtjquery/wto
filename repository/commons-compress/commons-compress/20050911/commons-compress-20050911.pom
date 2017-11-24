@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>commons-compress</groupId>
+  <artifactId>commons-compress</artifactId>
+  <version>20050911</version>
+</project>

@@ -1,0 +1,69 @@
+{
+    "code": "000000",
+    "desc": "成功",
+    "result": {
+        "correct": [],
+        "themes": [
+            {
+                "id": 99,
+                "domain": "imeres",
+                "category": "theme",
+                "rsource": 0,
+                "bizid": "100IME",
+                "osid": "Android",
+				"clientid":"32322",
+                "lowerversion": "1.0.0",
+                "highversion": "3.0.1265",
+                "updatetime": 1510044221000,
+                "name": "晨曦露珠",
+                "author": "IFLYTEK",
+                "desc": "",
+                "adaptconfigid": 30,
+                "matchscore": 60.666,
+                "hightlight": {
+                    "name": "晨曦<hl>露珠</hl>"
+                }
+            },
+            {
+                "id": 99,
+                "domain": "imeres",
+                "category": "theme",
+                "rsource": 0,
+                "bizid": "100IME",
+                "osid": "Android",
+				"clientid":"3222",
+                "lowerversion": "1.0.0",
+                "highversion": "3.0.1265",
+                "updatetime": 1510044221000,
+                "name": "晨曦露珠",
+                "author": "IFLYTEK",
+                "desc": "",
+                "adaptconfigid": 30,
+                "matchscore": 60.666,
+                "hightlight": {
+                    "name": "晨曦<hl>露珠</hl>"
+                }
+            },
+            {
+                "id": 99,
+                "domain": "imeres",
+                "category": "theme",
+                "rsource": 0,
+                "bizid": "100IME",
+                "osid": "Android",
+				"clientid":"12555",
+                "lowerversion": "1.0.0",
+                "highversion": "3.0.1265",
+                "updatetime": 1510044221000,
+                "name": "晨曦露珠",
+                "author": "IFLYTEK",
+                "desc": "",
+                "adaptconfigid": 30,
+                "matchscore": 60.666,
+                "hightlight": {
+                    "name": "晨曦<hl>露珠</hl>"
+                }
+            }
+        ]
+    }
+}
